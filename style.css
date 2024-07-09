@@ -167,6 +167,7 @@ section {
 
 .profile-pic {
   border-radius: 50%;
+  filter: grayscale(100%);
 }
 
 .section__text {
@@ -263,6 +264,7 @@ section {
 
 .about-pic {
   border-radius: 2rem;
+  filter: grayscale(100%);
 }
 .arrow {
   position: absolute;
